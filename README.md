@@ -11,7 +11,7 @@ Check out Presentation at [Link](https://github.com/woog2ee/The-Voice/blob/main/
 
 ## 💡 Prototype
 ### 개체명 인식 기반 보이스피싱 탐지 모델
-실시간 전화에서 대화 내용 텍스트화 및 개체명 인식을 통해 보이스피싱 위험도를 실시간으로 게재
+실시간 전화에서 개체명 인식을 통해 보이스피싱 위험도를 실시간으로 게재
 ![thevoice_prototype](https://user-images.githubusercontent.com/80081987/137754280-baed0f39-70a8-4def-b726-b4e499378685.png)
 
 ## 🚂 Pipeline
@@ -20,8 +20,7 @@ Check out Presentation at [Link](https://github.com/woog2ee/The-Voice/blob/main/
 [AI Hub 상담 음성 데이터](https://aihub.or.kr/aidata/30711)에서 상담 데이터 수집 후 전처리 
 
 ### 2. ETRI NER Tagging
-[ETRI NER API](https://aiopen.etri.re.kr/guide_wiseNLU.php)로   
-보이스피싱 및 콜센터 텍스트에서 단어들을 NER 태깅해 데이터 일관성을 확보
+[ETRI NER API](https://aiopen.etri.re.kr/guide_wiseNLU.php)로 보이스피싱 및 콜센터 텍스트에서 단어들을 NER 태깅해 데이터 일관성을 확보
 
 ### 3. Sentence N-gram & Embedding
 전화 맥락을 학습하고자 데이터를 문장 N-gram으로 변환했으며   
