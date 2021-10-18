@@ -12,7 +12,7 @@ Check out Presentation at [Link](https://github.com/woog2ee/The-Voice/blob/main/
 ## 💡 Prototype
 ### 개체명 인식 기반 보이스피싱 탐지 모델
 실시간 전화에서 대화 내용 텍스트화 및 개체명 인식을 통해 보이스피싱 위험도를 실시간으로 게재
-![thevoice_prototype](https://user-images.githubusercontent.com/80081987/137754118-ae452db7-ef39-4500-ba0e-b8f4926af780.png)
+![thevoice_prototype](https://user-images.githubusercontent.com/80081987/137754280-baed0f39-70a8-4def-b726-b4e499378685.png)
 
 ## 🚂 Pipeline
 ### 1. Data Crawling & Collecting
