@@ -1,5 +1,5 @@
 # The-Voice
-ETRI 2021 Open API Project 
+ETRI 2021 Open API Project Repository   
 Check out Presentation at [Link](https://github.com/woog2ee/The-Voice/blob/main/ETRI%202021%20Open%20API%20%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C%20(%EA%B7%B8%EB%86%88%EB%AA%A9%EC%86%8C%EB%A6%AC%ED%8C%80).pdf)
 
 ## 👪 Teammates
